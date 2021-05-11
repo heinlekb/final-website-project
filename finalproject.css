@@ -1,0 +1,105 @@
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 2px;
+    color: whitesmoke;
+}
+
+body{
+    background-color:#080808;
+    text-align: center;
+}
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #FF1493;
+    position: relative; 
+    text-align: center;
+}
+
+h3{
+    color: whitesmoke;
+    text-align: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+}
+
+p{
+color: whitesmoke;
+text-align: center;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+position: relative;
+}
+
+mark.blue{
+    color: #FF1493;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background: none;
+}
+
+.topnav{
+    background-color: #333;
+    overflow: hidden;
+}
+
+.topnav a{
+    float: right;
+    color: whitesmoke;
+    text-align: right;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.topnav a:hover{
+    background-color: #FF1493;
+    color: black;
+}
+
+.topnav a.active{
+    background-color: #333;
+    color: #FF1493;
+}
+
+.designs > iframe{
+    width: 90%;
+}
+
+.designs{
+    width: calc(30% - 100px);
+    margin: 10px;
+}
+
+#designs-container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: table-row;
+}
+
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid whitesmoke; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px;
+    resize: vertical; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  
+  input[type=submit] {
+    background-color: #FF1493;
+    color: whitesmoke;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #333;
+    
+  }
+
