@@ -22,4 +22,3 @@
 
     Overall, I want my website to allow users to access a portfolio about myself. I want the user to learn about my experiences and skills in digital art as well as learning about myself.
 
-//add a paragraph or two for description
