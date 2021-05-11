@@ -1,3 +1,6 @@
+//search how to write README
+//https://guides.github.com/features/mastering-markdown/
+
 ## Kendall's Final Project
 
 ## Pages
@@ -18,3 +21,5 @@
     to be able to get to know me and view my experience.
 
     Overall, I want my website to allow users to access a portfolio about myself. I want the user to learn about my experiences and skills in digital art as well as learning about myself.
+
+//add a paragraph or two for description
